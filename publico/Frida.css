@@ -1,0 +1,32 @@
+body{
+    background-color:whitesmoke;
+
+}
+h1{
+    text-align: center;
+    color: midnightblue;
+    font-style: initial;
+    font-size: 45px;
+
+    
+}
+h2{
+    text-align:center;
+    color: indigo;
+    font-style: italic;
+    font-size: 35px;
+}
+h3{
+    text-align: center;
+    color: mediumorchid;
+    font-style: oblique;
+    font-size: 20px;
+}
+h4{
+    font-size: 15px;
+    font-style: unset;
+}
+img{
+    width: 200px;
+    margin: auto;
+}
